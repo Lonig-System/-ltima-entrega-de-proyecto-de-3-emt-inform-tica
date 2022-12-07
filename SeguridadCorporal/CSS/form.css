@@ -1,0 +1,71 @@
+.form {
+  width: 400px;
+  background: #252323;
+  padding: 30px;
+  margin: auto;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000000;
+  box-sizing: border-box;
+  border-top: 4px solid #749c75;
+  text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+  .form {
+    width: 95%;
+  }.form p {
+    margin-bottom: 20px;
+  }
+}
+
+.form p , h4{
+  height: 40px;
+  border-bottom: 1px solid;
+}
+.form h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.controls {
+  width: 94%;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #dbdbdb;
+  font-family: 'calibri';
+  font-size: 18px;
+  font-weight: bold;
+}
+.form p,.form a {
+  height: 40px;
+  font-size: 18px;
+  line-height: 40px;
+}
+.form a {
+  color: white;
+  text-decoration: none;
+  height: 40px;
+  font-size: 18px;
+  line-height: 40px;
+}
+.form a:hover {
+  color: white;
+  text-decoration: underline;
+}
+.form .btn {
+  width: 100%;
+  background: #749c75;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 6px 0;
+  font-size: 16px;
+}
+.btn:hover{
+  background: #b3bd7e;
+}
+

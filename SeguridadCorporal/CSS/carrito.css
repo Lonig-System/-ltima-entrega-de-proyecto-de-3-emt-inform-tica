@@ -1,0 +1,77 @@
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+.imagen{
+  height: 200px;
+  margin-right: 20px;
+ 
+}
+.producto{
+padding: 20px;
+display: flex;
+flex-wrap:wrap;
+}
+.po{
+
+  margin-right: 100px;
+}
+
+.can input{
+width: 40px;
+}
+
+.fas{
+  margin-top: 50px;
+  margin-right: 5%;
+  background-color: #fefefe;
+}
+.btn{
+  width: 100px;
+}
+
+
+.mar{
+  margin: 10%;
+}
+/*  Modal */
+/* fondo */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  padding-top: 100px; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  overflow: auto;
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4); /* opacidad */
+}
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 10%;
+  border: 1px solid #888;
+  width: 70%;
+}
+
+.tal{
+  text-align: center;
+}
+/* Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}

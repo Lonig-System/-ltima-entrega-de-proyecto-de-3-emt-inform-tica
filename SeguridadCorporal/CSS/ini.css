@@ -1,0 +1,69 @@
+.form-iniciar{
+    width: 400px;
+    background: #252323;
+    padding: 30px;
+    margin:auto;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000000;
+    box-sizing: border-box;
+    border-top: 4px solid #749c75;
+    text-align: center;
+}
+.form-iniciar h4{
+    height: 40px;
+    border-bottom: 1px solid;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.form-iniciar {
+    width: 94%;
+    padding: 15px 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #dbdbdb;
+    font-family: 'calibri';
+    font-size: 18px;
+    font-weight: bold;
+}
+.form-iniciar a {
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    font-size: 18px;
+    line-height: 40px;
+}
+.form-iniciar a:hover {
+    color: white;
+    text-decoration: underline;
+}
+.form-iniciar .btn{
+    width: 100%;
+    padding: 15px 10px;
+    font-size: 16px;
+    background-color: #749c75;
+    color: #dbdbdb;
+    outline: 0px;
+    border: none;
+    border-radius: 0.5%;
+}
+.form-iniciar .btn:hover{
+    background: #b2bd7e;
+}
+
+.txt{
+    
+    height: 100%;
+    width: 94%;
+    padding: 15px 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    
+    font-family: 'calibri';
+    font-size: 18px;
+    font-weight: bold;
+    
+}

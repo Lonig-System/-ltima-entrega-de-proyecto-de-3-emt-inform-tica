@@ -1,0 +1,4 @@
+Guan DeTal 124 es el usuario jefe de la página web.
+usuario usuario es el usuario de mysql.
+Operador administrador123 es el usuario de la VM.
+root otracontrasenia es el usuario root de la vm.
